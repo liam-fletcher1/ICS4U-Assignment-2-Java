@@ -6,7 +6,7 @@
      * @since   2021-12-08 
      */
 
-    class Main {
+    class Roman {
         // Function to calculate roman equivalent
         static String intToRoman(int num) {
             // storing roman values of digits from 0-9
